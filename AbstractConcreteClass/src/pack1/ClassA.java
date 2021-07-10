@@ -12,6 +12,7 @@ public class ClassA {
 		void demo()
 		{
 			System.out.println("H");
+			System.out.println("Hello");
 
 		}
 			
