@@ -10,6 +10,7 @@ public abstract class ClassB extends ClassA {
 		void demo()
 		{
 			System.out.println("WELCOME");
+			System.out.println("WELCOME");
 		}
 	
 		
